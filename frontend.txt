@@ -1,0 +1,45 @@
+Frontend Developer 
+
+We are convinced that creativity in solving problems is essential in order to develop great software in an agile manner. We appreciate a scalable architecture, excellent programming and open-minded communication.
+
+The data for our app is provided by a powerful, Elixir-based backend that manages the user data and takes over the real-time data processing from our data providers. A particular focus of our architecture is on the good scalability of our systems in order to absorb frequently occurring load peaks during live games and to offer our users a good gaming experience at all times.
+
+In the front end, we rely on the Flutter programming language, which combines all the advantages of availability, fault tolerance, stability and a mature ecosystem with one of the most accessible modern programming languages.
+
+Your tasks:
+Be part of a cross-functional team that inspires countless users around the world every day. You work closely with your teammates to learn and convey new things.
+
+You work in a cloud-based environment with PaaS and IaaS services. You know how to integrate these services into solutions in a meaningful way.
+
+As an experienced expert for the planning and implementation of complex software architectures, you are happy to be the contact person for your project team
+Further development and maintenance of the existing application
+Optimization of the existing operation
+Working in a cloud-based environment with PaaS and laaS services
+Intensive cooperation with the entire team
+
+Your profile:
+we maintain short decision-making paths and a high level of personal responsibility on the part of team members on an equal footing. What counts for us is solution-oriented action and the fun of bringing things forward. Ideally, you have the following qualities:
+
+You have experience as a Flutter front-end developer
+You have good knowledge of at least one object-oriented or functional programming language (Dart, Swift, Kotlin, ...)
+iOS and Android as an ecosystem are well known to you
+You have experience as a software engineer in agile development models (Scrum, Kanban)
+You have an open communication style in German (B1 recommended, Minimum A2) and English
+You are a friend of organization paired with care, attention to detail and your own quality standards
+
+We offer:
+A friendly and highly motivated team with a flat hierarchy and quick decision-making processes: "The best argument wins!"
+Fast implementation of new features
+Direct exchange with the ever-growing  community
+Creative working atmosphere
+Latest work setup (programs, MacBook, etc.)
+Modern office right on the water in Dortmund (Near to Paderborn)
+Very good accessibility by public transport
+There are sufficient parking spaces and bicycle parking spaces
+
+Further information:
+Working hours: full time/part time
+We are looking for now
+We look forward to your online application.
+
+If interested send your complete application at dkaws20@gmail.com
